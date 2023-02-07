@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1q833ehEjwDIYEK7eWLFyA3m7L17Nn1e3" width="700" height="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1q833ehEjwDIYEK7eWLFyA3m7L17Nn1e3" max-width="1000" max-height="400"/>
 </div>
 
 
@@ -31,7 +31,8 @@
 # 😱Mostly Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh0021)](https://github.com/anuraghazra/github-readme-stats)
 
-# 💥:
+# 💥metrices:
+
 ![GitHub metrics](https://metrics.lecoq.io/rajneesh0021)  
 
 
@@ -48,6 +49,8 @@
 
 ## 👀Profile Views:
 ![Profile views](https://gpvc.arturio.dev/rajneesh0021) 
+
+
 <!---
 Rajneesh0021/Rajneesh0021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
