@@ -20,12 +20,8 @@
 
 ---
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![mongodb](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| [<img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' height='50' />]()| [<img src='https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png' height='50'/>]()| [<img src='https://logospng.org/download/javascript/logo-javascript-1024.png' height='50'/>]()| [<img src='https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529' height='50'/>]()| [<img src='https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g' height='50'/>]()|  [<img src='https://miro.medium.com/max/1800/1*HTy1M1eFC7GoW6odSukQVw.png' height='50'/>]() | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' height='50'/>]()|
+|---|---|---|---|---|---|---|
 
 ---
 # 😱Mostly Used:
@@ -72,16 +68,15 @@ var repeat=(eat,sleep,code)=>{
 
 <!---
 postman
-https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529
+
 
 node
 
-https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g
+
 
 81html
-https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjCAiOSg4QEXEbUNrily0tyWP67Ano2v06gg&usqp=CAU
+
 
 Rajneesh0021/Rajneesh0021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
