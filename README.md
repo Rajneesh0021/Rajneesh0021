@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://cdn.wallpapersafari.com/34/10/0scLdk.gif" width="800"/>
-</div>
 
 ---
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </h1> 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from India.
@@ -18,24 +15,25 @@
 
 - 📫 How to reach me **thedreamerone0021@gmail.com**
 
+- 📫 My Portfolio https://Uselessme21.github.io/
+
 ---
 # 💻 Tech Stack:
 | [<img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' height='50' />]()| [<img src='https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png' height='50'/>]()| [<img src='https://logospng.org/download/javascript/logo-javascript-1024.png' height='50'/>]()| [<img src='https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529' height='50'/>]()| [<img src='https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g' height='50'/>]()|  [<img src='https://miro.medium.com/max/1800/1*HTy1M1eFC7GoW6odSukQVw.png' height='50'/>]() | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' height='50'/>]()|
 |---|---|---|---|---|---|---|
 
 ---
-# 😱Mostly Used:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh0021)](https://github.com/anuraghazra/github-readme-stats)
 
----
-# 💥metrices:
+### :fire: My Stats :
 
-![GitHub metrics](https://metrics.lecoq.io/rajneesh0021)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uselessme21&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Uselessme21" /></p>
 
----
-# 🔥Streak:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uselessme21&show_icons=true&locale=en&theme=dark&background=000000" alt="Uselessme21" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rajneesh0021)  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uselessme21&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 
 ---
 # ✍️Random Dev Quote:
@@ -67,20 +65,6 @@ var repeat=(eat,sleep,code)=>{
 
 ```
 
-<!---
-postman
 
-
-node
-
-
-
-81html
-
-
-
-Rajneesh0021/Rajneesh0021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ! [](https://raw.githubusercontent.com/Rajneesh0021/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ! [](https://raw.githubusercontent.com/Rajneesh0021/github-stats/master/generated/overview.svg#gh-light-mode-only)
