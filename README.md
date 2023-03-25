@@ -7,7 +7,6 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from India.
 
-- 🔭 I’m currently working on [none](none)
 
 - 🌱 I’m currently learning **mongo**
 
@@ -46,7 +45,7 @@
 
 ---
 ## 👀Profile Views:
-![Profile views](https://gpvc.arturio.dev/rajneesh0021) 
+![Profile views](https://gpvc.arturio.dev/Uselessme21) 
 
    
 ```javascript
