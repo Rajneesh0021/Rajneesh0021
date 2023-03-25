@@ -66,5 +66,3 @@ var repeat=(eat,sleep,code)=>{
 ```
 
 
-! [](https://raw.githubusercontent.com/Rajneesh0021/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-! [](https://raw.githubusercontent.com/Rajneesh0021/github-stats/master/generated/overview.svg#gh-light-mode-only)
