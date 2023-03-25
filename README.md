@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thedreamerone0021@gmail.com**
 
-- 📫 My Portfolio https://Uselessme21.github.io/
+- 🌐 My Portfolio https://Uselessme21.github.io/
 
 ---
 # 💻 Tech Stack:
