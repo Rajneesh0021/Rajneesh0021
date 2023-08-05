@@ -8,7 +8,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from India.
 
 
-- 🌱 I’m currently learning **mongo**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **javascript, node, express**
 
