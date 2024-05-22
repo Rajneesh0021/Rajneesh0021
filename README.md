@@ -25,13 +25,13 @@
 
 # :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uselessme21&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Uselessme21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajneesh0021&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Uselessme21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uselessme21&show_icons=true&locale=en&theme=dark&background=000000" alt="Uselessme21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajneesh0021&show_icons=true&locale=en&theme=dark&background=000000" alt="Uselessme21" /></p>
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uselessme21&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rajneesh0021&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
 ---
@@ -40,12 +40,12 @@
 
 ---
 # 🌐Connect with me:
-| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uselessme21) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajneesh0021/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rajneesh0021/)  | [<img src='https://drive.google.com/uc?export=view&id=1aLAy4FK972oXXDwCLWWLpHvDGUSHZF8G' alt='linktree' height='40'>](https://linktr.ee/rajneesh0021) |
+| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajneesh0021/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rajneesh0021/)  | [<img src='https://drive.google.com/uc?export=view&id=1aLAy4FK972oXXDwCLWWLpHvDGUSHZF8G' alt='linktree' height='40'>](https://linktr.ee/rajneesh0021) |
 |---|---|---|---|---|---|
 
 ---
 ## 👀Profile Views:
-![Profile views](https://gpvc.arturio.dev/Uselessme21) 
+![Profile views](https://gpvc.arturio.dev/Rajneesh0021) 
 
    
 ```javascript
