@@ -1,67 +1,107 @@
-
----
-<h1>
-  hey there
-
-</h1> 
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from India.
-
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **javascript, node, express**
-
-- 📫 How to reach me **thedreamerone0021@gmail.com**
-
-- 🌐 My Portfolio https://Rajneesh0021.github.io/
-
----
-# 💻 Tech Stack:
-| [<img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' height='50' />]()| [<img src='https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png' height='50'/>]()| [<img src='https://logospng.org/download/javascript/logo-javascript-1024.png' height='50'/>]()| [<img src='https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529' height='50'/>]()| [<img src='https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g' height='50'/>]()|  [<img src='https://miro.medium.com/max/1800/1*HTy1M1eFC7GoW6odSukQVw.png' height='50'/>]() | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' height='50'/>]()|
-|---|---|---|---|---|---|---|
+<!-- ──────────────────────────────── 🚀 HEADER ──────────────────────────────── -->
+<div align="center">
+  <h1>👋 Hi, I'm <b>Rajneesh Yadav</b></h1>
+  <h3>Full Stack Web Developer | MERN | Next.js | Real-Time Systems</h3>
+  <p><em>Building scalable systems. Solving real-world problems. One product at a time.</em></p>
+</div>
 
 ---
 
-# :fire: My Stats :
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajneesh0021&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Uselessme21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajneesh0021&show_icons=true&locale=en&theme=dark&background=000000" alt="Uselessme21" /></p>
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rajneesh0021&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+<!-- ────────────────────────── ⌨️ Typing Animation Banner ────────────────────────── -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=800&color=00C2FF&background=00000000&width=750&lines=Engineering+scalable+full-stack+applications+⚙️;Building+real-time+systems+with+WebSockets+🚀;Transforming+ideas+into+production-ready+products+🌍;MERN+Stack+Developer+%7C+Next.js+Specialist+🔥;Focused+on+performance%2C+clean+architecture+%26+scalability+🧠;Always+learning+Always+building+🌿" />
+</div>
 
 ---
-# ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- ─────────────────────────────── 📊 PROFILE VIEWS ─────────────────────────────── -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajneesh0021&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views"/>
+</div>
 
 ---
-# 🌐Connect with me:
-| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajneesh0021/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/rajneesh0021) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rajneesh0021/)  | [<img src='https://drive.google.com/uc?export=view&id=1aLAy4FK972oXXDwCLWWLpHvDGUSHZF8G' alt='linktree' height='40'>](https://linktr.ee/rajneesh0021) |
-|---|---|---|---|---|---|
+
+## 🚀 About Me
+
+- 💼 Full Stack Developer
+- 🛠 Built and managed complete MERN applications independently
+- 🧠 Passionate about **real-time systems, scalable APIs & system architecture**
+- 🌱 Currently sharpening skills in **Next.js, DevOps & AI integration**
+- 🎯 Focused on building impactful digital products
+
+📍 Lucknow, Uttar Pradesh, India  
+📧 rajneeshyadavdev@gmail.com  
 
 ---
-## 👀Profile Views:
-![Profile views](https://gpvc.arturio.dev/Rajneesh0021) 
 
-   
-```javascript
+## 🧠 Tech Stack
 
-var repeat=(eat,sleep,code)=>{
+<div align="center">
 
-  eat();
+### 🚀 Frontend
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="45"/>
 
-  sleep();
+### ⚙️ Backend
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="45"/>
 
-  code();
+### 🗄 Databases
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" height="45"/>
 
-  repeat();
+### 🛠 Tools
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" height="45"/>
 
-}
+</div>
 
-```
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajneesh0021&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajneesh0021&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced System Design
+- Scalable Backend Architecture
+- Real-time Applications
+- AI Integration in Web Apps
+- Performance Optimization
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajneesh0021">
+    <img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+  </a>
+  <a href="mailto:rajneeshyadavdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+⭐ If you like my work, feel free to star my repositories and connect!
